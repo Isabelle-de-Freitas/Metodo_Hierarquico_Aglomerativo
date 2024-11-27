@@ -21,3 +21,5 @@ O **objetivo** deste trabalho é realizar uma análise de Associação Hierárqu
 - Análise descritiva
 - Método Hierárquico Aglomerativo
 - Conclusão
+
+**Obs.:** o dendrograma não é plotado no notebook, pois ele utiliza um pacote (plotly.io) que abre o gráfico no browser.
